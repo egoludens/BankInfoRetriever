@@ -1,0 +1,1 @@
+BankInfoRetriever.exe /gui
